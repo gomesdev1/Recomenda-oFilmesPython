@@ -1,5 +1,5 @@
 # Recomenda-oFilmesPython
-um algoritmo de recomendação de filmes para um cinema, baseando-se na idade do cliente
+Um algoritmo de recomendação de filmes para um cinema, baseando-se na idade do cliente
 
 # Bem-vindo à Máquina de Venda Automática de Ingressos de Cinema!
 
@@ -10,7 +10,7 @@ idade = int(input(“Por favor, digite sua idade: ”))
 
  
 
-# Verifica a idade para sugestão de filmes
+# Verificar a idade para sugestão de filmes
 
 if idade < 12:
 
@@ -26,7 +26,7 @@ else:
 
  
 
-# Verifica a disponibilidade de ingressos
+# Verificar a disponibilidade de ingressos
 
 quantidade_ingressos = 10  # Suponha que haja 10 ingressos disponíveis
 
