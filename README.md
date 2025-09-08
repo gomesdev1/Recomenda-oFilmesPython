@@ -1,5 +1,5 @@
 # Recomenda-oFilmesPython
-Um algoritmo de recomendação de filmes para um cinema, baseando-se na idade do cliente
+Um programa Python de recomendação de filmes para um cinema, baseando-se na idade do cliente
 
 # Bem-vindo à Máquina de Venda Automática de Ingressos de Cinema!
 
@@ -20,7 +20,7 @@ elif 12 <= idade < 18:
 
     print(“Recomendamos o filme adolescente FILME 2.”)
 
-else:
+else: idade > 18
 
     print(“Recomendamos o emocionante FILME 3.”)
 
