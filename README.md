@@ -1,4 +1,4 @@
-# Recomenda-oFilmesPython
+# Recomenda-oFilmesPython - ReFilm
 Um programa Python de recomendação de filmes para um cinema, baseando-se na idade do cliente
 
 # Bem-vindo à Máquina de Venda Automática de Ingressos de Cinema!
